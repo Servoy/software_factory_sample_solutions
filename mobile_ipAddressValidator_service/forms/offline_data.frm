@@ -1,0 +1,13 @@
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"F53A8C86-150D-4291-B4FE-D0ACBB45053F"
+}
+],
+name:"offline_data",
+showInMenu:true,
+typeid:3,
+uuid:"EFCBCF26-05A5-400F-A872-06D704112105"

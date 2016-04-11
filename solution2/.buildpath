@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding=".stp/|medias/" kind="src" path=""/>
+	<buildpathentry exported="true" kind="prj" path="/moduleof2"/>
+	<buildpathentry exported="true" kind="prj" path="/postImportHookOf2"/>
+	<buildpathentry exported="true" kind="prj" path="/preImportHookOf2"/>
+</buildpath>

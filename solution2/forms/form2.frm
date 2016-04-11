@@ -1,0 +1,12 @@
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"884974F4-6355-484B-B26F-A5F6489CD343"
+}
+],
+name:"form2",
+showInMenu:true,
+typeid:3,
+uuid:"B58AE2BC-FEAC-472C-B939-4689033BBE40"
