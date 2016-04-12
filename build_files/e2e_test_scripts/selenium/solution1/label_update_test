@@ -13,23 +13,28 @@
 </thead><tbody>
 <tr>
 	<td>open</td>
-	<td>/hello/solutions/hello/index.html?f=world</td>
+	<td>/solution1/solutions/solution1/index.html?f=world</td>
 	<td></td>
 </tr>
 <tr>
 	<td>waitForElementPresent</td>
-	<td>//*[@data-svy-name='world.mybutton']</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>//*[@data-svy-name='world.mybutton']</td>
+	<td>//*[@data-svy-name='helloWorld.mybutton']</td>
 	<td></td>
 </tr>
 <tr>
 	<td>verifyText</td>
-	<td>//*[@data-svy-name='world.mylabel']/div/div/span[2]</td>
-	<td>world!</td>
+	<td>//*[@data-svy-name='helloWorld.mylabel']/div/div/span[2]</td>
+	<td>Hello world?</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//*[@data-svy-name='helloWorld.mybutton']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//*[@data-svy-name='helloWorld.mylabel']/div/div/span[2]</td>
+	<td>Hello world!</td>
 </tr>
 </tbody></table>
 </body>
