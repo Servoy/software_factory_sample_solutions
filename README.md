@@ -1,4 +1,4 @@
-# Build scripts for building a Servoy Software Factory
+# Sample solutions for building a Software Factory
 
 This repository contains the sample Servoy solutions/resources and test scripts that are needed for building a Servoy based Software Factory: https://wiki.servoy.com/display/public/DOCS/Building+a+Software+Factory
 Please read that wiki page for instructions on how to use the contents of this repository.
