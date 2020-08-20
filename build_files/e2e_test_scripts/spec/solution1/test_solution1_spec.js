@@ -9,7 +9,7 @@ describe('test_hello_world', function() {
    	expect(element(by.buttonText('Click me to change the label below')).isPresent()).toBe(true);
    	var value = element(by.xpath("//*[@data-svy-name='helloWorld.mylabel']")).getText();
    	expect(value).toBe('Hello world?');
-   	element(by.xpath("//*[@data-svy-name='helloWorld.mybutton']")).click();
+   	element(by.xpath("//*[@data-svy-name='helloWorld.mybutton']/button")).click();
     browser.waitForAngular();
     value = element(by.xpath("//*[@data-svy-name='helloWorld.mylabel']")).getText();
    	expect(value).toBe('Hello world!');

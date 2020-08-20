@@ -28,7 +28,7 @@
 </tr>
 <tr>
 	<td>click</td>
-	<td>//*[@data-svy-name='helloWorld.mybutton']</td>
+	<td>//*[@data-svy-name='helloWorld.mybutton']/button</td>
 	<td></td>
 </tr>
 <tr>
